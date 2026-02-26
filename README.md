@@ -101,12 +101,11 @@ To run ETL tasks run below API:
 # Logs
 To check the running of celery tasks, check the logs of application and celery container.
 
-# Documentation
+# Additional Info
 
-# Troubleshooting
+Additional information about ECC can be found in our [ECC wiki](https://github.com/adlnet/ecc-openlxp-xds-ui/wiki)
 
+# License
 
-## License
-
- This project uses the [MIT](http://www.apache.org/licenses/LICENSE-2.0) license.
+This project uses the [Apache](http://www.apache.org/licenses/LICENSE-2.0) license.
   
